@@ -1,5 +1,5 @@
 #anushka srivastava code v3.26
-#book recommendation 0.1
+#book recommendation 0.0
 
 # import libraries (you may add additional imports but you may not have to )
 import numpy as np
