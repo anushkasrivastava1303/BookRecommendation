@@ -48,7 +48,7 @@ print(books)
 def test_book_recommendation():
   test_pass = True
   recommends = get_recommends("Where the Heart Is (Oprah's Book Club (Paperback))")
-  if recommends[0] != "Where the Heart Is (Oprah's Book Club (Paperback))":
+  if recommends[0] != "Where the Heart is (Oprah's Book Club (Paperback))":
     test_pass = False
   recommended_books = ["I'll Be Seeing You", 'The Weight of Water', 'The Surgeon', 'I Know This Much Is True']
   recommended_books_dist = [0.8, 0.77, 0.77, 0.77]
