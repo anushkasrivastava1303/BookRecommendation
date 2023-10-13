@@ -34,7 +34,7 @@ df_ratings = pd.read_csv(
     usecols=['user', 'isbn', 'rating'],
     dtype={'user': 'int32', 'isbn': 'str', 'rating': 'float32'})
 
-# add your code here - consider creating a new cell for each section of code
+# add your code here - consider creating a new cell for each section of the code
 
 # function to return recommended books - this will be tested
 def get_recommends(book = ""):
