@@ -1,4 +1,4 @@
-#anushka code v1.2
+#anushka code v1.02
 
 # import libraries (you may add additional imports but you may not have to)
 import numpy as np
