@@ -1,7 +1,7 @@
 #anushka code v1.02
 
 # import libraries (you may add additional imports but you may not have to)
-import numpy as np
+import numpy as n
 import pandas as pd
 from scipy.sparse import csr_matrix
 from sklearn.neighbors import NearestNeighbors
