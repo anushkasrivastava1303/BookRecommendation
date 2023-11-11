@@ -8,11 +8,11 @@ from scipy.sparse import csr_matrix
 from sklearn.neighbors import NearestNeighbors
 import matplotlib.pyplot as plt 
    
-# get data files
+# get data files 
 !wget https://cdn.freecodecamp.org/project-data/books/book-crossings.zip
 
 !unzip book-crossings.zip
- 
+  
 #Book Name
 books_filename = 'BX-Books.csv'
 ratings_filename = 'BX-Book-Ratings.csv'
