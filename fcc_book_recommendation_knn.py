@@ -26,7 +26,7 @@ df_books = pd.read_csv(
     names=['isbn', 'title', 'author'],
     usecols=['isbn', 'title', 'author'],
     dtype={'isbn': 'str', 'title': 'str', 'author': 'str'})
-
+ 
 df_ratings = pd.read_csv(
     ratings_filename,
     encoding = "ISO-8859-1",
