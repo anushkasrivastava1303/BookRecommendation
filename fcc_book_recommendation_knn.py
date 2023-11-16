@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
         
 #Book Name 1  
 books_filename = 'BX-Books.csv' 
-ratings_filename = 'BX-Book-Ratings.csv'
+ratings_filename = 'BX-Book-Ratings.csv' 
 
 # import csv data into dataframes
 df_books = pd.read_csv(
