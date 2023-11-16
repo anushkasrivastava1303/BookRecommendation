@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
  
 !unzip book-crossings.zip 
         
-#Book Name 1 
+#Book Name 1  
 books_filename = 'BX-Books.csv'
 ratings_filename = 'BX-Book-Ratings.csv'
 
