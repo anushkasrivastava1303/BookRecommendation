@@ -9,7 +9,7 @@ from sklearn.neighbors import NearestNeighbors
 import matplotlib.pyplot as plt   
           
 # get data files       
-!wget https://cdn.freecodecamp.org/project-data/books/book-crossings.zip
+!wget https://cdn.freecodecamp.org/project-data/books/book-crossings.zip 
 !unzip book-crossings.zip 
          
 #Book Name  1    
